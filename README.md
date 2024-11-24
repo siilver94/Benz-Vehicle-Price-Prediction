@@ -1,4 +1,4 @@
-# Project : 벤츠 차량 가격 예측(Benz Vehicle Price Prediction)
+# 벤츠 차량 가격 예측(Benz Vehicle Price Prediction)
 
 <br/>
 
@@ -55,11 +55,6 @@ src = https://github.com/siilver94/Benz-Vehicle-Price-Prediction/assets/57824945
 - mpg miles per galoon.
 - engineSize size in litres.
 
-
-
-<br/>
-
-
 <br/>
 
 ## 사용기술
@@ -68,8 +63,6 @@ src = https://github.com/siilver94/Benz-Vehicle-Price-Prediction/assets/57824945
 - **Numpy**
 - **Sklearn**
 - **Jupyter Notebook**
-
-<br/>
 
 <br/>
 
